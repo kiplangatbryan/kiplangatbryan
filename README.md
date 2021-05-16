@@ -1,13 +1,15 @@
 
 
 <h1>
-<div class="tot">
-👋 Hi, I’m @sgtbett come and lets build together.
-</div>
-</h1>
+  Hi, there 👋 
+ </h1>
+ <h3>
+       welcome, lets build together.
+  </h3>
+
 
 <div>
-  <img src="https://images.unsplash.com/photo-1505471310026-0071c89ddac5?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjR8fGRldGVybWVkJTIwY29kZXJ8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=60" >
+  <img src="https://image.freepik.com/free-photo/boxing-gloves-isolated-dark-background_100488-119.jpg" >
 </div>
 
 
