@@ -1,16 +1,13 @@
 
 
 <h1>
-  Hi, there 👋 
+  Hi, there 👋 Nice to meet You.
  </h1>
  <h3>
-       welcome, lets build together.
+   I am a web developer, pythonister and a person i love to create. 
   </h3>
-
-
-<div>
-  <img src="https://image.freepik.com/free-photo/boxing-gloves-isolated-dark-background_100488-119.jpg" >
-</div>
+  
+  <a href="https://www.linkedin.com/in/kiplangat-bett-4a0a16188">LinkedIn<a> 
 
 
 <!---
