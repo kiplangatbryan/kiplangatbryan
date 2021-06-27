@@ -7,7 +7,7 @@
    I am a full stack Engineer
   </h3>
   
-  <button href="https://www.linkedin.com/in/kiplangat-bett-4a0a16188">LinkedIn<button> 
+  <a href="https://www.linkedin.com/in/kiplangat-bett-4a0a16188">LinkedIn<a> 
 
 
 <!---
