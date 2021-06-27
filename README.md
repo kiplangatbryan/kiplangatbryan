@@ -4,7 +4,7 @@
   Hi, there 👋 Nice to meet You.
  </h1>
  <h3>
-   I am a web developer, pythonister and a person i love to create. 
+   I am a full stack Engineer
   </h3>
   
   <a href="https://www.linkedin.com/in/kiplangat-bett-4a0a16188">LinkedIn<a> 
