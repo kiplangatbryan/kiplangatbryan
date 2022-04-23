@@ -1,11 +1,8 @@
 
 
-<h1>
+<h2>
   Hi, there 👋 Nice to meet You.
- </h1>
- <h3>
-   I am a full stack Engineer
-  </h3>
+ </h2>
    <ul>
   <li> I am mind blowing Front End Expert ✨ </li>
   <li> Currenly Exploring flutter and Go ✨ superior combo </li>
@@ -13,7 +10,7 @@
   </ul>
     
   
-  <a href="https://www.linkedin.com/in/kiplangat-bett-4a0a16188">LinkedIn<a> 
+  Find me on <a href="https://www.linkedin.com/in/kiplangat-bett-4a0a16188">LinkedIn<a>  and talk to me on <a href="mailto:kiplangatsgt@gmail.com">Personal Mail</a>  
 
 
 <!---
