@@ -4,9 +4,8 @@
   Hi, there 👋 Nice to meet You.
  </h2>
    <ul>
-  <li> I am mind blowing Front End Expert ✨ </li>
-  <li> Currenly Exploring flutter and Go ✨ superior combo </li>
-  <li> Looking to collaborate on a Networking Distribution Chain </li>
+  <li> Front End Expert for Mobile and Web applications ✨ </li>
+  <li> Currenly Exploring Flutter and Go ✨ Superior Combo </li>
   </ul>
     
   
