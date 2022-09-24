@@ -1,18 +1,24 @@
 
 
-<h2>
-  Hi, there 👋 Nice to meet You.
- </h2>
-   <ul>
-  <li> Front End Expert for Mobile and Web applications ✨ </li>
-  <li> Currenly Exploring Flutter and Go ✨ Superior Combo </li>
-  </ul>
-    
-  
-  Find me on <a href="https://www.linkedin.com/in/kiplangat-bett-4a0a16188">LinkedIn<a>  and talk to me on <a href="mailto:kiplangatsgt@gmail.com">Personal Mail</a>  
+### Hi there 👋, I'm Bryan a Full-Stack Engineer Based in Nakuru, Kenya.
+<a href="https://www.linkedin.com/in/gibson-silali/">
+  <img align="left" alt="Silali's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<br/>
+<br/>
+Here's a few things about me:
 
+- 🔭 I’m currently working on a realtime gaming collaboration platform at [gameen](https://gameen.com/). 
+- 🌱 I’m currently learning hot to build and deploy on the cloud with ALX
+- 💬 Let talk about Vue.js,Nuxt.js  and Node.js.
+- 📫 You can reach me on: kiplangastsgt@gmail.com
 
-<!---
-sgtbett/sgtbett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Languages and Tools:**
+- JavaScript
+- Vue.js
+- Typescript
+- Node.js
+- React
+- GIT
+- TypeScript
+
