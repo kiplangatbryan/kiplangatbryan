@@ -11,7 +11,7 @@ Here's a few things about me:
 - 🔭 I’m currently working on a realtime gaming collaboration platform at [gameen](https://gameen.gg/). 
 - 🌱 I’m currently learning how to build and deploy on the cloud with ALX
 - 💬 Let talk about Vue.js,Nuxt.js  and Node.js.
-- 📫 You can reach me on: kiplangastsgt@gmail.com
+- 📫 You can reach me on: kiplangat.dev@gmail.com
 
 **Languages and Tools:**
 - JavaScript
