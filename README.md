@@ -1,6 +1,6 @@
 
 
-### Hi there 👋, I'm Brian a Full-Stack Software Developer Based in Nakuru, Kenya.
+### Hi there 👋, I'm Brian a Full-Stack Software Developer.
 <a href="https://www.linkedin.com/in/kiplangat-brian-4a0a16188">
   <img align="right" alt="Bryan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
