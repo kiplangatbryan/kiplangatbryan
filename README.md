@@ -8,9 +8,9 @@
 <br/>
 Here's a few things about me:
 
-- 🔭 I’m currently working on a realtime gaming collaboration platform at [gameen](https://gameen.gg/). 
+- 🔭 I’m currently working on a transcription platform at [Verbalscripts](https://verbalscripts.com/). 
 - 🌱 I’m currently learning how to build and deploy on the cloud with ALX
-- 💬 Let talk about Vue.js,Nuxt.js  and Node.js.
+- 💬 Let talk about Vue.js,Nuxt.js, Next.js  and Nest.js.
 - 📫 You can reach me on: kiplangat.dev@gmail.com
 
 **Languages and Tools:**
