@@ -1,24 +1,24 @@
+### Hi there 👋
 
+I'm Brian. I love building utilities aimed at increasing Developer productivity :raised_hands: 
 
-### Hi there 👋, I'm Brian a Full-Stack Software Developer.
-<a href="https://www.linkedin.com/in/kiplangat-brian-4a0a16188">
-  <img align="right" alt="Bryan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<br/>
-<br/>
-Here's a few things about me:
+🔭 I’m currently working on [Verbalscripts | Transcription Platform](https://verbalscripts.com)
 
-- 🔭 I’m currently working on a transcription platform at [Verbalscripts](https://verbalscripts.com/). 
-- 🌱 I’m currently learning how to build and deploy on the cloud with ALX
-- 💬 Let talk about Vue.js,Nuxt.js, Next.js  and Nest.js.
-- 📫 You can reach me on: kiplangat.dev@gmail.com
+📫 How to reach me:
 
-**Languages and Tools:**
-- JavaScript
-- Vue.js
-- Typescript
-- Node.js
-- React
-- GIT
-- Amazon Web Services(AWS)
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://x.com/BrianKipz00?t=Lz0jC19mOV_GUiSNQB2_yA&s=09) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](www.linkedin.com/in/kiplangat-bryan-4a0a16188)
 
+---
+
+<!--
+**jamesgeorge007/jamesgeorge007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
